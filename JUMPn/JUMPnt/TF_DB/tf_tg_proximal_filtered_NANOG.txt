@@ -1,0 +1,16 @@
+NANOG targets from Gerstein et al., Nature 2012 [http://encodenets.gersteinlab.org/]
+ROCK1P1
+TCF7L1
+NLE1
+OTX2
+ID1
+REST
+UNC45B
+PMF1
+ANKRD30BL
+METTL11B
+POU5F1
+PSORS1C3
+CDX2
+SFRP2
+DHX8

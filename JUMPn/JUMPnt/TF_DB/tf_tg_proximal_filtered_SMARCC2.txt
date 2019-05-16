@@ -1,0 +1,7 @@
+SMARCC2 targets from Gerstein et al., Nature 2012 [http://encodenets.gersteinlab.org/]
+ROCK1P1
+LOC100130581
+ANKRD30BL
+GBAP1
+FAM173B
+CCT5

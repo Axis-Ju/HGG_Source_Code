@@ -1,0 +1,155 @@
+DATASET_SIMPLEBAR
+#In simple bar charts, each ID is associated to a single numeric value which is displayed as a bar outside the tree.
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+#SEPARATOR TAB
+#SEPARATOR SPACE
+SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,NTRKvsCNTRL_UPREG 1
+
+#dataset color (can be changed later)
+COLOR,#ff0000
+
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+#dataset scale: you can simply set the values where the scale will be drawn
+#DATASET_SCALE,2000,10000,20000
+#or you can specify value, label and color for each scale line (dash separated, format: VALUE-LABEL-COLOR) 
+#DATASET_SCALE,2000-2k line-#0000ff,10000-line at 10k-#ff0000,20000
+
+#each dataset can have a legend, which is defined below
+#for each row in the legend, there should be one shape, color and label
+#shape should be a number between 1 and 5:
+#1: square
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+
+LEGEND_TITLE,Dataset PDGFRAvsCNTRL_UpReg
+#LEGEND_SHAPES,1,2,3
+#LEGEND_COLORS,#ff0000,#00ff00,#0000ff
+#LEGEND_LABELS,value1,value2,value3
+
+
+#=================================================================#
+#     all other optional settings can be set or changed later     #
+#           in the web interface (under 'Datasets' tab)           #
+#=================================================================#
+#all other optional settings can be set or changed later in the web interface (under 'Datasets' tab)
+
+#maximum width
+#WIDTH,1000
+
+#left margin, used to increase/decrease the spacing to the next dataset. Can be negative, causing datasets to overlap.
+#MARGIN,0
+
+#always show internal values; if set, values associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display.
+#SHOW_INTERNAL,0
+
+#bar height factor; Default bar height will be slightly less than the available space between leaves, but you can set a multiplication factor here to increase/decrease it (values from 0 to 1 will decrease it, values above 1 will increase it)
+#HEIGHT_FACTOR,1
+
+#Bars are aligned to the node lines by default. Using BAR_SHIFT, you can move them all up/down by a fixed amount
+#BAR_SHIFT,0
+
+#BAR_ZERO specifies which dataset value will be used as a starting point for drawing the bars. Dataset values smaller than BAR_ZERO will be displayed to the left (possibly overlapping the tree, unless MARGIN is increased)
+#BAR_ZERO,0
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATASET_SCALE,-2,-1,0,1,2
+
+DATA
+#ID1,value1
+#ID2,value2
+#AKT1,10000
+#LEAF1|LEAF2,11000
+AlternativeName,correct2
+AAK1,2
+ABL,1.039226453
+ADRBK1,0
+ADRBK2,0
+AKT1,0.679672511
+AKT2,2
+ALK,0
+CAMK2A,2
+CAMK2D,0.747644447
+CAMK2G,2
+CDK1,0
+CDK2,0
+CDK5,1.798792631
+CDK9,0.727737516
+CDKL5,2
+CHEK1,1.194669226
+CHEK2,0
+CSNK1A1,0.655468387
+CSNK1D,0
+CSNK2A1,0
+DAPK1,0.669382681
+DYRK1A,0.295783315
+DYRK2,1.9050983
+FYN,1.890179857
+GRK4,0
+GSK3A,0.727479838
+GSK3B,0.419989782
+ICK,0
+INSR,2
+JAK3,0
+MAP2K1,2
+MAP2K4,2
+MAP2K7,2
+MAP3K8,2
+MAPK1,0.317884753
+MAPK11,0
+MAPK12,2
+MAPK13,1.200680864
+MAPK14,0
+MAPK3,1.285688529
+MAPK7,2
+MAPKAPK2,0.206960894
+MARK2,0.374237278
+MELK,0
+MKNK1,0
+MOS,0
+NEK6,1.02075856
+NUAK1,1.288904185
+PAK1,0.571139855
+PAK3,1.775040525
+PAK6,2
+PDPK1,0.291861705
+PLK2,2
+PRKAA1,2
+PRKAA2,2
+PRKACA,1.045361641
+PRKCA,1.059214036
+PRKCD,0.646357139
+PRKCE,2
+PRKCG,2
+PRKCI,2
+PRKCQ,0.876765447
+PRKCZ,1.94370409
+PRKD1,0.739582041
+PRKG2,0.691214121
+ROCK1,0
+RPS6KB1,0
+SGK1,2
+SRC,0.647952164
+SRPK1,0
+STK38,2
+STK4,1.454007299
+TNIK,1.099372544
+UHMK1,2
+ULK1,1.704646894
+ULK3,2
+VRK1,0
+

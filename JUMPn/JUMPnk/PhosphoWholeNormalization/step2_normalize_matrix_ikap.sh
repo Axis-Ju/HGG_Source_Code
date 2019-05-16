@@ -1,0 +1,1 @@
+java -jar DRPPM_20190514_newmachine.jar -NormalizeMatrix2IKAP jpeng_hgg_phosphosite_matrix_v1_20160420.txt 7,8,9 15 jpeng_phosphosite_matrix_normalized_v1_20160420.txt

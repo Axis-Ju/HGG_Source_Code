@@ -1,0 +1,16 @@
+IRF4 targets from Gerstein et al., Nature 2012 [http://encodenets.gersteinlab.org/]
+ROCK1P1
+MMACHC
+IL16
+UBC
+CCDC163P
+MACC1
+ANKRD30BL
+KSR1
+NCF2
+CCL3
+BZRAP1
+VTRNA1-1
+RFTN1
+C17orf87
+CIITA

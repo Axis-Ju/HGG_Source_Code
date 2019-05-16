@@ -1,0 +1,9 @@
+POU5F1 targets from Gerstein et al., Nature 2012 [http://encodenets.gersteinlab.org/]
+ROCK1P1
+NLE1
+FANK1
+MTRNR2L1
+UNC45B
+PMF1
+ANKRD30BL
+SNX16

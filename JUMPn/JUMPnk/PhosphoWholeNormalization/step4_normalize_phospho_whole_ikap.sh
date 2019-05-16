@@ -1,0 +1,1 @@
+java -jar DRPPM_20190514_newmachine.jar -NormalizePhosphoAgainstWhole jpeng_phosphosite_matrix_normalized_v1_20160420.txt hgg_whole_normalized_v1_20160420.txt.txt hgg_phosphosite_matrix_normalized_whole_v1_20160420.txt

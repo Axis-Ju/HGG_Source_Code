@@ -1,0 +1,11 @@
+FAM48A targets from Gerstein et al., Nature 2012 [http://encodenets.gersteinlab.org/]
+ROCK1P1
+PDE4DIP
+FANK1
+MALAT1
+ZNF718
+MTRNR2L1
+ANKRD30BL
+SEC22B
+ZNF595
+DHX32

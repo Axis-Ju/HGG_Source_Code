@@ -1,0 +1,4 @@
+WRNIP1 targets from Gerstein et al., Nature 2012 [http://encodenets.gersteinlab.org/]
+ROCK1P1
+ANKRD30BL
+DUSP22

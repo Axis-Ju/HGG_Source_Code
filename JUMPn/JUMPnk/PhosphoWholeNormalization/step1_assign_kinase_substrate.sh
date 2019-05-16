@@ -1,0 +1,1 @@
+java -jar DRPPM_20190514_newmachine.jar -AssignKnownKinaseSubstrateRelationship id_all_site_quan_header_removed.txt Mouse_Kinase_Substrate.txt id_all_site_quan_header_removed_kinase_asigned.txt jpeng_hgg_phosphosite_matrix_v1_20160420.txt

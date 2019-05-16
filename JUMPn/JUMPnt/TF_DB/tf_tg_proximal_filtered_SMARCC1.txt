@@ -1,0 +1,13 @@
+SMARCC1 targets from Gerstein et al., Nature 2012 [http://encodenets.gersteinlab.org/]
+ROCK1P1
+FAM129B
+ID1
+GBAP1
+JUNB
+LMNA
+AHNAK
+LOC100130581
+ANKRD30BL
+RPL37
+HOXC10
+ITGA5
