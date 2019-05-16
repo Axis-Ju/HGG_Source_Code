@@ -1,5 +1,5 @@
 # HGG_Source_Code_JUMPpl
-#To localize phosphosites
+To localize phosphosites,
 We determined phosphosite reliability by the localization score (Lscore) from the JUMP software suite based on the concept of the phosphoRS algorithm.
 We first derived an Lscore (0-100%) for each phosphosite in every PSM, and then aligned all phosphosites to protein sequences to produce a protein Lscore for each phosphosite. 
 When one site was identified by numerous PSMs, the highest PSM Lscore was selected. 
