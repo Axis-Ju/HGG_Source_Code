@@ -1,2 +1,2 @@
-# JUMP
-source code for JUMP -s, -f , -q
+# HGG_Source_Code_JUMPp software suite
+JUMPp software suite was originally called JUMP. Current JUMPp including four parts: i. Protein database search; ii. Putative Match filtering using a target-decoy strategy. iii. Phosphosite site localization score calculation for phosphoproteome analysis. iv. protein/peptide quantification for TMT labelling
