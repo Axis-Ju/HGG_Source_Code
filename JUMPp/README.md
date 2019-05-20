@@ -1,2 +1,10 @@
-# HGG_Source_Code_JUMPp software suite
-JUMPp software suite was originally called JUMP. Current JUMPp including four parts: i. Protein database search; ii. Putative Match filtering using a target-decoy strategy. iii. Phosphosite site localization score calculation for phosphoproteome analysis. iv. protein/peptide quantification for TMT labelling
+# HGG_Source_Code
+
+Function of JUMPp is to pre-process mass spectrometer generated raw data for protein identification and quantificaiton
+JUMPp composes of 4 segments: 
+
+i. JUMPps: Protein database search; 
+ii. JUMPpf: Putative Match filtering using a target-decoy strategy.
+iii. JUMPpl: Phosphosite site localization score calculation for phosphoproteome analysis. 
+iv. JUMPpg: protein/peptide quantification for TMT labelling
+
