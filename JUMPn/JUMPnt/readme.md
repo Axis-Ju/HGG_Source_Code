@@ -1,3 +1,5 @@
+HGG_Source_Code_TF activity reference.
+The Purpose of the code is to reference TF activity based on target gene expression.
 Required to install 'drppm' package before usage:  https://github.com/gatechatl/DRPPM
 
 Usage:
