@@ -20,4 +20,4 @@ iii. JUMPnk: Kinase activity reference using IKAP, published by Mischnik M et al
 iv. JUMPnt: transcriptional factor activity reference based on target gene expression
 v. JUMPna: Pathway activity calculation
 
-JUMP softwares that produced by Peng lab were developed by: Xusheng Wang, Ji-Hoon Cho, Yuxin Li, Timothy Shaw, Hong Wang and Junmin Peng  
+JUMP software suite that produced by Peng lab were developed by: Xusheng Wang, Ji-Hoon Cho, Yuxin Li, Timothy Shaw, Hong Wang and Junmin Peng  
