@@ -1,0 +1,11 @@
+http://www.broadinstitute.org/gsea/msigdb/cards/KEGG_TAURINE_AND_HYPOTAURINE_METABOLISM
+GGT7
+CSAD
+GGT5
+GGT1
+GAD1
+BAAT
+GAD2
+GGT6
+CDO1
+ADO

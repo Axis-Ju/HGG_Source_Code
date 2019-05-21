@@ -1,0 +1,12 @@
+http://www.broadinstitute.org/gsea/msigdb/cards/KEGG_FOLATE_BIOSYNTHESIS
+QDPR
+ALPP
+ALPPL2
+DHFR
+GGH
+GCH1
+FPGS
+SPR
+ALPL
+PTS
+ALPI
